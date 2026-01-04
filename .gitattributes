@@ -1,4 +1,0 @@
-# Keep shell scripts and YAML files as LF (Linux-friendly)
-*.sh text eol=lf
-*.yml text eol=lf
-*.yaml text eol=lf

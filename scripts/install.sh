@@ -1,3 +1,3 @@
 #!/bin/bash
-set -e
+chmod +x scripts/install.sh
 echo "Deploying the files to prove it works!"
